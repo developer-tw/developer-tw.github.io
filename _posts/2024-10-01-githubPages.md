@@ -70,11 +70,11 @@ gem install jekyll bundler
 ## 從模版建立 Jekyll Blog
 預設的 Jekyll Blog 樣式非常簡潔，我們可以從以下網站找到自己喜歡的樣式並套用  
 
-[jekyll-theme](https://github.com/topics/jekyll-theme)  
-[jamstack Themes](https://jamstackthemes.dev/ssg/jekyll/)  
-[jekyllthemes.org](http://jekyllthemes.org/)  
-[jekyllthemes.io](https://jekyllthemes.io/)  
-[jekyll-themes.com](https://jekyll-themes.com/)  
+- [jekyll-theme](https://github.com/topics/jekyll-theme)  
+- [jamstack Themes](https://jamstackthemes.dev/ssg/jekyll/)  
+- jekyllthemes.org (http://jekyllthemes.org/)  
+- [jekyllthemes.io](https://jekyllthemes.io/)  
+- [jekyll-themes.com](https://jekyll-themes.com/)  
 安裝方式一般使用 gem-based themes，也有的 Repo 提供 Fork 方式安裝；甚至是提供直接一鍵安裝方式；總之每個模板的安裝方式可能有所不同，請參閱模板的教學使用
   
 這邊就以我 Blog 採用的模版 Chirpy 為示範，此模版提供最傻瓜的一鍵安裝方式，可以直接使用
@@ -190,6 +190,6 @@ git push
           
             
               
-              
+
 
 > _有任何問題及指教歡迎 [與我聯絡](https://www.sanyaceo.com) 。_
