@@ -26,7 +26,7 @@ python3 -m venv virtual_env
 ```
 virtual_env 是虛擬環境的名稱，可以隨便取，一樣不要有中文或奇怪符號。按下 enter 後會小等一下，接著輸入 ls 來顯示這個資料夾裡面有什麼，如圖，現在裡面有你的虛擬環境囉  
 
-![](../../../assets/post_images/2024-10-03-pythonEnv/python_ls.png)  
+![](../assets/post_images/2024-10-03-pythonEnv/python_ls.png)  
 
 以上就是 2.1 建立新的虛擬環境，目前只有建立，接下來要介紹啟動。  
 
@@ -39,19 +39,19 @@ source virtual_env/bin/activate
 
 **確認有沒有啟動**   
 
-![](../../../assets/post_images/2024-10-03-pythonEnv/python_check_active.png)  
+![](../assets/post_images/2024-10-03-pythonEnv/python_check_active.png)  
 
 如圖，最前面會出現(virtual_env)，代表你已經在這個虛擬環境中。  
   
 輸入 which python3 ，會得到你現在使用的python3是從哪來的，而顯示的就會是你虛擬環境的地址  
   
-![](../../../assets/post_images/2024-10-03-pythonEnv/which_python3.png)  
+![](../assets/post_images/2024-10-03-pythonEnv/which_python3.png)  
 
 ## 查看已有哪些套件  
 
 pip3 list 可以顯示出你目前這個虛擬環境中有哪些套件。如圖，最原始版本只有pip和setuptools。下一步我們來安裝吧！  
 
-![](../../../assets/post_images/2024-10-03-pythonEnv/pip_list.png)  
+![](../assets/post_images/2024-10-03-pythonEnv/pip_list.png)  
 
 **安裝套件**  
 
@@ -75,7 +75,7 @@ deactivate
 ```  
    
 
-![](../../../assets/post_images/2024-10-03-pythonEnv/deactivate.png)  
+![](../assets/post_images/2024-10-03-pythonEnv/deactivate.png)  
 
 
 ## 懶人包
