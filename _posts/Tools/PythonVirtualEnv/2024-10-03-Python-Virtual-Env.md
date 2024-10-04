@@ -1,8 +1,8 @@
 ---
 title:  "Virtual Python Environment"
+description: Here’s how to create a Python virtual environment
 date:   2024-10-03 14:20:36 +0800
 categories: [Tools, PythonVirtualEnv]
-author: Sanya
 tags: [python]
 ---
 # How to create a virtial python vnvironment

@@ -1,5 +1,6 @@
 ---
 title: Markdown Tutorials
+description: Introduction to Markdown Formatting and usage
 date: 2024-10-01 20:16:58 +0800
 categories: [Tools, Markdown]
 tags: [markdown]
@@ -17,23 +18,32 @@ math: true
 ```
 <br>
 
+### 這是三級標題
+```markdown
+### 這是三級標題
+```
+<br>
+
 換行用空格+enter或者`<br>` 
 <br>
 
 ## 強調
 <br>
-**hhh** 
+*強調這個字串Italics* 
 ```markdown
-**hhh**
+*強調這個字串Italics*
 ```
 <br>
-
-*hhh* 
+**強調這個字串Bold** 
 ```markdown
-*hhh*
+**強調這個字串Bold**
 ```
 <br>
-
+***強調這個字串Bold and Italic*** 
+```markdown
+***強調這個字串Bold and Italic***
+```
+<br>
 
 [[hehehe]]
 <br>
@@ -67,9 +77,6 @@ $\lim_{x \to \infty} \frac{sin(t)}{x}=1$
 ```
 $\lim_{x \to \infty} \frac{sin(t)}{x}=1$ 
 <br>
-
-
-
 
 
 ## 表格
@@ -216,13 +223,11 @@ term
 <br>
 
 ## Image
-![]({{ site.url }}/assets/img/2021-11-01-Markdown-Tutorials/CAAQA.png)
-![]({{ site.url }}/assets/img/2021-11-01-Markdown-Tutorials/ML.png)
-
 ```markdown
-![]({{ site.url }}/assets/img/2021-11-01-Markdown-Tutorials/CAAQA.png)
-![]({{ site.url }}/assets/img/2021-11-01-Markdown-Tutorials/ML.png)
+![](../assets/images/logo.png)
 ```
+![](../assets/images/logo.png)
+
 <br>
 
 ## Footnote

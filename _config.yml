@@ -9,17 +9,17 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Taipei
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Sanya # the main title
+title: Sanya Life # the main title
 
 tagline: Life Sharing - Recommended Products. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Sanya iOS/Android Developer 求知若渴 教學相長 更愛電影/美劇/西音/運動/生活
+  Sanya iOS/Android/Linux/ROS Developer
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://developer-tw.github.io', note that it does not end with a '/'.
@@ -34,7 +34,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Sanya
+  name: Ethan
   email: sanya@sanyaceo.com # change to your email address
   links:
     # The first element serves as the copyright owner's link

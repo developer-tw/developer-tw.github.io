@@ -1,9 +1,8 @@
 ---
-title:  "How to use GitHub Pages?"
-description: Sanya's first article
+title:  "GitHub Pages"
+description: Ethan's first article
 date:   2024-10-01 14:20:36 +0800
 categories: [GitHub]
-author: Sanya
 tags: [GitHub]
 ---
 # How to use gitHub pages to create your blog!  
